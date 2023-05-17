@@ -1,10 +1,17 @@
 featured:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
+- {name: 'publication1', url: '/publications/1501.07274.pdf'}
+- {name: 'Minji Kim, Junyoung Park, Juhyeok Kim, Dongjun Lee, Stiffness Decomposition and Design Optimization 
+of Under-Actuated Tendon-Driven Robotic Systems with Singular Stiffness (in preparation)'}
+- {name: Minji Kim, Wonha Lee, Dongjun Lee, Preliminary Results on Design Optimization of Under-Actuated 
+Tendon-Driven System with Singular Stiffness, 15th Korea Robotics Society Annual Conference, 2020'}
+- {name: Minji Kim, Junyoung Park, Juhyeok Kim, Myungsin Kim, Dongjun Lee, Stiffness Decomposition and 
+Design Optimization of Under-Actuated Tendon-Driven Robotic Systems, IEEE International Conference on 
+Robotics and Automation (ICRA), 2018'}
+- {name: Kwangmin Kim, Minji Kim, Dongmok Kim, Dongjun Lee, Modeling and Velocity-Field Control of Au- 
+tonomous Excavator with Main Control Valve, Automatica, 104, pp.67-81, 2019
+- {name: Kwangmin Kim, Minji Kim, Dongmok Kim, Dongjun Lee, Auto-Stop of Excavator using Passivity-Based 
+Control of MCV, KSME Conference, 2016'}
+
 
 index:
-- {name: 'Testing General Relativity with Present and Future Astrophysical Observations. Emanuele Berti (Mississippi U. and Lisbon, CENTRA), Enrico Barausse (Paris, Inst. Astrophys. and Paris U., VI-VII), Vitor Cardoso (Lisbon, IST and Perimeter Inst. Theor. Phys. and Lisbon, CENTRA), Leonardo Gualtieri (Rome U. and INFN, Rome), Paolo Pani (Rome U. and INFN, Rome and Lisbon, IST and Lisbon, CENTRA) et al.', url: '/publications/1501.07274.pdf'}
-- {name: 'Shock interactions, turbulence and the origin of the stellar mass spectrum. Ralph E. Pudritz and N. K.-R. Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/PhilTransRSoc_2013.pdf'}
-- {name: 'Low shear diffusion central schemes for particle methods. Jonathan Panuelos, James Wadsley, Nicholas Kevlahan', url: 'http://ms.mcmaster.ca/kevla/pdf/articles/jcp_v414.pdf'}
-- {name: 'Numerical solutions of thin film equations for polymer flows. Thomas. Salez, Joshua D. McGraw, Sara Cormier, Oliver Bäumchen, Kari Dalnoki-Veress, and Elie Raphaël', url: 'https://static1.squarespace.com/static/5684891d7086d74497aeb71f/t/56ec510d2fe1319543ab6d6f/1458327821946/10.1140-epje-i2012-12114-x.pdf'}
+- {name: 'publication1', url: '/publications/1501.07274.pdf'}
