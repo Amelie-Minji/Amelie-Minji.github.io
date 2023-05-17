@@ -19,9 +19,9 @@ social:
 - {icon: 'github', link: 'https://github.com/Amelie-Minji'}
 #- {icon: 'twitter', link: 'https://twitter.com/paululele'}
 #- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/minji-kim-b88404249/'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Ph.D. candidate', department: 'Robotics', institution: 'Georgia Institute of Technology',
- institution_address: '1 Main Street, U.S.A', phone: '(000) 000-0000', email: 'hello@university.edu',
-  office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Amelie-Minji Kim', title: 'Ph.D. candidate', department: 'Robotics', institution: 'Georgia Institute of Technology',
+ institution_address: 'Atlanta, GA 30332, U.S.A', phone: '(000) 000-0000', email: 'amelie.minji.kim@gmail.com',
+  office: 'Laboratory for Intelligent Decision and Autonomous Robots', image: 'assets/img/contact.jpg'}
