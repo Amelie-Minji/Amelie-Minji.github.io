@@ -11,7 +11,7 @@ sitemap: false
 
 Version 9 is the most complete version of Hydejack yet.
 {:.lead}
-
+<!--
 [Modernized](#linking-in-style) [design](#whats-in-the-cards), [big headlines](#ready-for-the-big-screen), big new features: [Built-In Search](#built-in-search), [Sticky Table of Contents](#sticky-table-of-contents), and [Auto-Hiding Navbar](#auto-hiding-navbar). That [and more](#and-much-more) is Hydejack 9.
 
 - Table of Contents
@@ -86,3 +86,4 @@ The PRO Version is scheduled to release on July 7th on Gumroad. Pre-Orders are o
       If you're technically inclined, you can adopt the code located in `_includes/js/search-worker.js` to your needs.
 
 
+-->

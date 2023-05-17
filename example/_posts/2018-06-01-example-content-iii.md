@@ -1,3 +1,5 @@
+<!--
+
 ---
 layout: post
 title: Example Content III
@@ -100,3 +102,4 @@ I'm faded, faded, faded.
 [ksynmath]: https://kramdown.gettalong.org/syntax.html#math-blocks
 [katex]: https://khan.github.io/KaTeX/
 [rtable]: https://dbushell.com/2016/03/04/css-only-responsive-tables/
+-->
