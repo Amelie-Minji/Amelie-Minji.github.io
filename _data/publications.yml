@@ -1,15 +1,15 @@
 featured:
-- {name: 'publication1', url: '/publications/1501.07274.pdf'}
+#- {name: 'publication1', url: '/publications/1501.07274.pdf'}
 - {name: 'Minji Kim, Junyoung Park, Juhyeok Kim, Dongjun Lee, Stiffness Decomposition and Design Optimization 
 of Under-Actuated Tendon-Driven Robotic Systems with Singular Stiffness (in preparation)'}
-- {name: Minji Kim, Wonha Lee, Dongjun Lee, Preliminary Results on Design Optimization of Under-Actuated 
+- {name: 'Minji Kim, Wonha Lee, Dongjun Lee, Preliminary Results on Design Optimization of Under-Actuated 
 Tendon-Driven System with Singular Stiffness, 15th Korea Robotics Society Annual Conference, 2020'}
-- {name: Minji Kim, Junyoung Park, Juhyeok Kim, Myungsin Kim, Dongjun Lee, Stiffness Decomposition and 
+- {name: 'Minji Kim, Junyoung Park, Juhyeok Kim, Myungsin Kim, Dongjun Lee, Stiffness Decomposition and 
 Design Optimization of Under-Actuated Tendon-Driven Robotic Systems, IEEE International Conference on 
 Robotics and Automation (ICRA), 2018'}
-- {name: Kwangmin Kim, Minji Kim, Dongmok Kim, Dongjun Lee, Modeling and Velocity-Field Control of Au- 
-tonomous Excavator with Main Control Valve, Automatica, 104, pp.67-81, 2019
-- {name: Kwangmin Kim, Minji Kim, Dongmok Kim, Dongjun Lee, Auto-Stop of Excavator using Passivity-Based 
+- {name: 'Kwangmin Kim, Minji Kim, Dongmok Kim, Dongjun Lee, Modeling and Velocity-Field Control of Au- 
+tonomous Excavator with Main Control Valve, Automatica, 104, pp.67-81, 2019'}
+- {name: 'Kwangmin Kim, Minji Kim, Dongmok Kim, Dongjun Lee, Auto-Stop of Excavator using Passivity-Based 
 Control of MCV, KSME Conference, 2016'}
 
 
