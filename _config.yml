@@ -51,6 +51,7 @@ author:
 menu:
   - title:             About
     url:               /about/
+    # defualt: true
 #  - title:             Example
 #    url:               /example/
   - title:             Documentation
