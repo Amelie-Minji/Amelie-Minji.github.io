@@ -17,6 +17,7 @@ redirect_from:
 Here is my greeting.  
 {:.lead}
 
+<!--
 1. this list will be replaced by the toc
 {:toc .large-only}
 
@@ -24,7 +25,7 @@ Here is my greeting.
 
 This is a figure caption.
 {:.figcaption}
-
+-->
 
 **Amelie-Minji** is testing this blog. 
 
@@ -64,12 +65,14 @@ Write all content with Markdown. __Hydejack__ gives you [additional CSS classes]
 The Hydejack blog, as seen by the text browser `w3m`.
 {:.figcaption}
 -->
-
+<!--
 ## Syntax Highlighting 
 **Hydejack** features syntax highlighting, powered by [Rouge].
 
 ```html
+-->
 <!-- file: `_includes/my-body.html` -->
+<!--
 <script type="module">
   document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
     const supportsCodeHighlights = false; // TBD!!
@@ -79,7 +82,7 @@ The Hydejack blog, as seen by the text browser `w3m`.
 
 Code blocks can have a filename and a caption.
 {:.figcaption}
-
+-->
 <!--
 ## Beautiful Math
 They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
